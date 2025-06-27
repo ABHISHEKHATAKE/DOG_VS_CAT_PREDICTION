@@ -38,5 +38,5 @@ A deep learning project that classifies images as either **cats** or **dogs** us
 
 ---
 
-## 📁 Project Structure
+
 
