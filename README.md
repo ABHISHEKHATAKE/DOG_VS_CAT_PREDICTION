@@ -4,19 +4,6 @@ A deep learning project that classifies images as either **cats** or **dogs** us
 
 ---
 
-## 📌 Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [License](#license)
-
----
 
 ## 🚀 Demo
 
